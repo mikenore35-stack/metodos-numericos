@@ -1,0 +1,8 @@
+# Tema de la página: paleta sobria (azul profundo + gris azulado)
+[theme]
+base = "light"
+primaryColor = "#1F4E79"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F2F5F9"
+textColor = "#1F2933"
+font = "sans serif"
